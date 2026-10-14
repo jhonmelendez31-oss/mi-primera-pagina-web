@@ -1,1 +1,11 @@
+header{
+    color: #f00;
+}
+
+section{
+    background-color: #000;
+    color: #fff;
+    border-radius: 25%;
+}
+
 
