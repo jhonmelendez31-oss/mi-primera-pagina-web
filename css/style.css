@@ -70,4 +70,9 @@ nav>a:hover{
     padding: 10px;
     border-radius: 8px;
     margin-top: 15px;
+    transition: background-color 0.3s ease;
+}
+
+.boton:hover{
+    background-color: #38bdf8;
 }
