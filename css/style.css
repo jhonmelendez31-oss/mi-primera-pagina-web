@@ -58,12 +58,12 @@ section ul{
     line-height: 2;
 }
 
-nav>a{
+/*nav>a{
     color: #ffffff;
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
-}
+}*/
 
 nav>a:hover{
     color: #38bdf8;
