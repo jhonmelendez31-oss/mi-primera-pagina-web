@@ -129,3 +129,11 @@ nav>a:hover{
 .boton:hover{
     background-color: #38bdf8;
 }
+
+footer{
+    background-color: #0f172a;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 40px;
+}
