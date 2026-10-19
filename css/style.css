@@ -13,17 +13,49 @@ header{
     background-color: #0f172a;
     color: #fff;
     text-align: center;
-    padding: 30px;
+    padding: 40px 20px;
+}
+
+header h1 {
+    font-size: 32px;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+
+header p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+header nav {
+    margin-top: 20px;
 }
 
 section{
     background-color: #fff;
-    color: #000;
+    color: #0f172a;
     margin: 20px;
-    padding: 20px;
+    padding: 25px;
     border-radius: 12px;
-    box-shadow: 4px 8px 12px 0px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e2e8f0;
+    box-shadow: 4px 8px 12px 0px rgba(0, 0, 0, 0.08);
+}
 
+section h2{
+    font-size: 24px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #38bdf8;
+}
+
+section p{
+    color: #475569;
+    line-height: 1.8;
+}
+
+section ul{
+    padding-left: 25px;
+    line-height: 2;
 }
 
 nav>a{
